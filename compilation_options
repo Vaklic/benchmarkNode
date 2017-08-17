@@ -1,0 +1,1 @@
+g++ simplest_web_server.c mongoose.c -o httpServer -D MG_DISABLE_MQTT -D MG_DISABLE_COAP -D MG_DISABLE_WEBSOCKET -D MG_DISABLE_DNS
